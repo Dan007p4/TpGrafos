@@ -1,0 +1,6 @@
+,Degree,Betweenness,Closeness,PageRank,Bridging Str
+Degree,1.0000,0.2622,0.7770,0.3787,0.6022
+Betweenness,0.2622,1.0000,0.1661,0.2639,0.3403
+Closeness,0.7770,0.1661,1.0000,-0.0117,0.4985
+PageRank,0.3787,0.2639,-0.0117,1.0000,0.2418
+Bridging Str,0.6022,0.3403,0.4985,0.2418,1.0000

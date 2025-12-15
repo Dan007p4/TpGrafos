@@ -1,0 +1,11 @@
+Metric,Value
+Vertices,2143
+Edges,2586
+Density,0.000563
+ClusteringCoefficient,0.030370
+Diameter,12
+AverageDistance,3.398965
+Assortativity,-0.177807
+Modularity,-0.073918
+NumberOfCommunities,207
+BridgingTiesCount,0

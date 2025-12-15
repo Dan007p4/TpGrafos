@@ -1,0 +1,5 @@
+Métrica,Grafo 1 (Comentários),Grafo 2 (Fechamentos),Grafo 3 (Reviews)
+Vértices,100,80,90
+Arestas,500,200,350
+Densidade,0.050,0.031,0.043
+Clustering,0.35,0.28,0.32

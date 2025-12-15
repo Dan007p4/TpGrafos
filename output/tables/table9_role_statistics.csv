@@ -1,0 +1,4 @@
+Papel,Quantidade,% do Total,Degree Médio,Degree Mediano,Betweenness Médio,Betweenness Mediano,PageRank Médio,PageRank Mediano,Bridging Médio,Bridging Mediano
+Connector,367,17.1,0.001813,0.000932,1.8e-05,0.0,0.000376,0.000141,1.750125,1.8
+Core,106,4.94,0.001355,0.000932,0.0,0.0,0.000362,0.000273,0.0,0.0
+Intermediate,1673,77.96,0.000243,0.000233,0.0,0.0,7.5e-05,7e-05,0.0,0.0
